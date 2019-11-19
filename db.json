@@ -1,0 +1,12 @@
+[
+  {
+    "productid": "p_mobile",
+    "productName": "Mobile",
+    "productDescription": "yes its a mobile"
+  },
+  {
+    "productid": "p_laptop",
+    "productName": "Laptop",
+    "productDescription": "yes its a laptop"
+  }
+]
